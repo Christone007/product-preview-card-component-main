@@ -14,7 +14,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## Overview
-Decided to take on this supposedly simple challenge after a long break and I really did not find it easy. I still have a lot to learn about css
+Decided to take on this supposedly simple challenge after a long break and I really did not find it easy. I still have a lot to learn about css.
+
+After submitting the first solution, I had to retry the project using CSS Flex. Not used to flexbox but I had to read it up
 ### The challenge
 
 Users should be able to:
@@ -24,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](images/screenshot2.png)
 
 
 ### Links
@@ -40,7 +42,10 @@ Users should be able to:
 
 ### What I learned
 
-I learned that i must not underestimate frontend development and need to invest more time in learning CSS.
+I learned that CSS flexbox is a very efficcient way to layout content
+
+### Appreciation
+My appreciation goes to the frontendmentor community for the helpful comments after my first submission.
 
 ## Author
 
