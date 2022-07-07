@@ -25,7 +25,7 @@ p {
   background-color: white;
   width: 50%;
   max-width: 800px;
-  height: 65%;
+  height: 60%;
   max-height: 936px;
   display: flex;
   flex-direction: row;
@@ -117,7 +117,7 @@ color:hsl(228, 12%, 48%);
 }
 
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:375px) and (max-width:700px) {
   .product-card {
     width: 80%;
     max-width: 340px;
